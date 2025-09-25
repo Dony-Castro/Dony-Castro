@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I enjoy solving complex coding challenges, contributing to collaborative coding environments and playing videogames!!
 
 ## Portfolio
-[![Visit my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](https://donycastro.me)
+[![Visit my portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge)](https://donycastro.com)
 
 ## GitHub Stats
 
