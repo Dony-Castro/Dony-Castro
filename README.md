@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [WheelPixAPI](https://github.com/Dony-Castro/WheelPixAPI) & [RentaEasy](https://github.com/Dony-Castro/RentaEasy)
 - 🌱 I’m currently learning advanced web scraping techniques, API development and honing my frontend skills.
 - 👯 I’m looking to collaborate on open source projects related to web development and APIs
-- 💬 Ask me about JavaScript, Nextjs, Svelte, Node.js, and Express!
+- 💬 Ask me about JavaScript, Nextjs, Svelte, Angular, Node.js, and .NET!
 - 📫 How to reach me: donycastro08@gmail.com
 - ⚡ Fun fact: I enjoy solving complex coding challenges, contributing to collaborative coding environments and playing videogames!!
 
